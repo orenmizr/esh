@@ -21,6 +21,7 @@ resource [category] - people, planets, starships, vehicles, species
 [x] consolidate logic 
 [x] account for errors - boundary (handle async errors)  + api errors. 
 [x] add types
+[x] form validation are mostly string so you can test with 'fsdfsdfsdf' 
 
 APIS given: 
 https://swapi.dev/api/people?search=L -> no global search
