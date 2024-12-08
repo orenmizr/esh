@@ -3,13 +3,17 @@
 ## instructions
 
 pnpm install
+
 pnpm run dev
+
 -- any package should work, but I used pnpm
 
 ## terminology
+
 resource [category] - people, planets, starships, vehicles, species
 
 ## steps
+
 [x] read the exercise X2
 [x] outline the wireframe
     -- search page
