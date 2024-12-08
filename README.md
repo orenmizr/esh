@@ -1,4 +1,11 @@
 ### ESH STAR WARS
+
+## instructions
+
+pnpm install
+pnpm run dev
+-- any package should work, but I used pnpm
+
 ## terminology
 resource [category] - people, planets, starships, vehicles, species
 
@@ -13,8 +20,6 @@ resource [category] - people, planets, starships, vehicles, species
 [x] implement presentation layer
 [x] consolidate logic 
 [x] account for errors - boundary (handle async errors)  + api errors. 
-[] typesafe 
-[] replace " ' "
 
 APIS given: 
 https://swapi.dev/api/people?search=L -> no global search
