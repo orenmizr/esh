@@ -20,6 +20,7 @@ resource [category] - people, planets, starships, vehicles, species
 [x] implement presentation layer
 [x] consolidate logic 
 [x] account for errors - boundary (handle async errors)  + api errors. 
+[x] add types
 
 APIS given: 
 https://swapi.dev/api/people?search=L -> no global search
